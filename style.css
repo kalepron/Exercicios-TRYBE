@@ -5,13 +5,29 @@ h1{
 }
 
 body{
-    background-color: black;
+    background-color: rgb(255, 255, 255);
     background-image: url(bgdt.jpeg);
-    background-blend-mode:darken 5.5;            
+    background-blend-mode:hard-light       
 }
 
-p , li{
-    color: ghostwhite;
+p {
+    color: rgb(206, 123, 226);
     font-family: Verdana;
     font-size: 1.3em
+}
+
+.paragrafos{
+    background-blend-mode: soft-light;
+    width: 34%;
+    height: 500px;
+    overflow: auto;
+}
+
+li{
+color: rgb(245, 114, 53);
+}
+
+#sub{
+
+    color: ghostwhite;
 }

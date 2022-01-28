@@ -1,0 +1,17 @@
+h1{
+
+    color: azure;
+    font-family: Verdana;
+}
+
+body{
+    background-color: black;
+    background-image: url(bgdt.jpeg);
+    background-blend-mode:darken 5.5;            
+}
+
+p , li{
+    color: ghostwhite;
+    font-family: Verdana;
+    font-size: 1.3em
+}
